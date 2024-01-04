@@ -22,3 +22,4 @@ Description: The DoseFinding package provides functions for the design and analy
 VignetteBuilder: knitr
 License: GPL-3
 LazyLoad: yes
+URL: https://github.com/bbnkmp/DoseFinding
